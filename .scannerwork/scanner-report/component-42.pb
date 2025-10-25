@@ -1,1 +1,0 @@
-* 2bslXhrhsrc/cf/CommonCommands/ОстаткиТоваровНаСкладахКоманда/Ext/CommandModule.bsl

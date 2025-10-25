@@ -1,1 +1,0 @@
- 2bslX>hrzsrc/cf/AccumulationRegisters/Взаиморасчеты/Forms/ТекущиеВзаиморасчеты/Ext/Form/Module.bsl

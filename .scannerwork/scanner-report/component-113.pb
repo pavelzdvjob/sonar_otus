@@ -1,1 +1,0 @@
-q 2bslX,hrhsrc/cf/Documents/РасходТовара/Forms/ОформлениеДоставки/Ext/Form/Module.bsl

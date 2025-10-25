@@ -1,1 +1,0 @@
-i 2bslX)hrTsrc/cf/Documents/Оплата/Forms/ФормаДокумента/Ext/Form/Module.bsl

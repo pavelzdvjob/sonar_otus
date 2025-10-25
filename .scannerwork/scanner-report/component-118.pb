@@ -1,1 +1,0 @@
-v 2bslXhrsrc/cf/Ext/SessionModule.bsl

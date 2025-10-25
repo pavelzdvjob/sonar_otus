@@ -1,1 +1,0 @@
-E 2bslXhr\src/cf/CommonModules/РаботаСПолнотекстовымПоиском/Ext/Module.bsl

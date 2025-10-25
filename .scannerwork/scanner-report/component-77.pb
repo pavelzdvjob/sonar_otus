@@ -1,1 +1,0 @@
-M 2bslX4hrFsrc/cf/CommonModules/УведомленияКлиент/Ext/Module.bsl

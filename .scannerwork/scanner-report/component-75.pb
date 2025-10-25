@@ -1,1 +1,0 @@
-K 2bslXhrHsrc/cf/CommonModules/СервисныеМеханизмы/Ext/Module.bsl

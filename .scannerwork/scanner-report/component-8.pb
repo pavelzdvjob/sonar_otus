@@ -1,1 +1,0 @@
- 2bslX�hrKsrc/cf/Catalogs/Встречи/Forms/Календарь/Ext/Form/Module.bsl

@@ -1,1 +1,0 @@
-, 2bslXhr|src/cf/CommonCommands/УстановитьРасширениеРаботыСКриптографией/Ext/CommandModule.bsl

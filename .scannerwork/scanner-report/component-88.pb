@@ -1,1 +1,0 @@
-X 2bslXjhrcsrc/cf/DataProcessors/ПроведениеДокументов/Forms/Форма/Ext/Form/Module.bsl

@@ -1,1 +1,0 @@
-@ 2bslXwhrJsrc/cf/CommonModules/ОбменМобильныеОбщее/Ext/Module.bsl

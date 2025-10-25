@@ -1,1 +1,0 @@
-7 2bslX#hrFsrc/cf/CommonModules/API_ОписанияТоваров/Ext/Module.bsl

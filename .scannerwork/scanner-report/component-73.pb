@@ -1,1 +1,0 @@
-I 2bslXWhr`src/cf/CommonModules/РаботаСХранилищемОбщихНастроек/Ext/Module.bsl

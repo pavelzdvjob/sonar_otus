@@ -1,1 +1,0 @@
-g 2bslXEhrtsrc/cf/Documents/ОперацияПоУчетуТоваров/Forms/ФормаДокумента/Ext/Form/Module.bsl

@@ -1,1 +1,0 @@
-w 2bslX0hrAsrc/cf/HTTPServices/ОписанияТоваров/Ext/Module.bsl

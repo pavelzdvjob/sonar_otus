@@ -1,1 +1,0 @@
-W 2bslX*hrSsrc/cf/DataProcessors/ПроведениеДокументов/Ext/ObjectModule.bsl

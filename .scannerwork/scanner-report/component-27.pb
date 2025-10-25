@@ -1,1 +1,0 @@
- 2bslXVhr\src/cf/Catalogs/Товары/Commands/ПечатьПрайсЛиста/Ext/CommandModule.bsl

@@ -1,1 +1,0 @@
-< 2bslXChrVsrc/cf/CommonModules/ГеопозиционированиеСервер/Ext/Module.bsl

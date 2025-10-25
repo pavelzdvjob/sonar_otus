@@ -1,1 +1,0 @@
-c 2bslX�hr[src/cf/DataProcessors/ЭлектроннаяПочта/Forms/Форма/Ext/Form/Module.bsl

@@ -1,1 +1,0 @@
-{ 2bslXShr\src/cf/Reports/ДашбордПродажи/Forms/ФормаОтчета/Ext/Form/Module.bsl

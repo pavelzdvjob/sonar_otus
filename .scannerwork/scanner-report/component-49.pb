@@ -1,1 +1,0 @@
-1 2bslXFhrAsrc/cf/CommonForms/НастройкаБота/Ext/Form/Module.bsl

@@ -1,1 +1,0 @@
- 2bslX�hr3src/cf/Bots/ОфисМенеджер/Ext/Module.bsl

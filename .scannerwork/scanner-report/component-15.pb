@@ -1,1 +1,0 @@
- 2bslXhr<src/cf/Catalogs/Контрагенты/Ext/ManagerModule.bsl

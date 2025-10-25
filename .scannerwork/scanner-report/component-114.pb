@@ -1,1 +1,0 @@
-r 2bslX�hr`src/cf/Documents/РасходТовара/Forms/ФормаДокумента/Ext/Form/Module.bsl

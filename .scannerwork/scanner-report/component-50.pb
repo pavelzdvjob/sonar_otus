@@ -1,1 +1,0 @@
-2 2bslX�hrasrc/cf/CommonForms/НастройкиМобильногоУстройства/Ext/Form/Module.bsl

@@ -1,1 +1,0 @@
-^ 2bslX�hrosrc/cf/DataProcessors/УправлениеАгрегатамиПродаж/Forms/Форма/Ext/Form/Module.bsl

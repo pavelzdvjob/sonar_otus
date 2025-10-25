@@ -1,1 +1,0 @@
-J 2bslXhr\src/cf/CommonModules/РегламентныеЗаданияАгрегатов/Ext/Module.bsl

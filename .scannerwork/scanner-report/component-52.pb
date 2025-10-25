@@ -1,1 +1,0 @@
-4 2bslXhrsrc/cf/CommonForms/ФормаВыбораПользователяСистемыВзаимодействия/Ext/Form/Module.bsl

@@ -1,1 +1,0 @@
- 2bslXIhr;src/cf/Catalogs/Контрагенты/Ext/ObjectModule.bsl

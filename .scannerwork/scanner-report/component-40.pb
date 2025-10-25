@@ -1,1 +1,0 @@
-( 2bslXRhr^src/cf/CommonCommands/НастроитьСканерШтрихКодов/Ext/CommandModule.bsl

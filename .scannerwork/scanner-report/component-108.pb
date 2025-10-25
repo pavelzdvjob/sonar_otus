@@ -1,1 +1,0 @@
-l 2bslXhr?src/cf/Documents/ПриходТовара/Ext/ManagerModule.bsl

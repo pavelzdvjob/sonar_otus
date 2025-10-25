@@ -1,1 +1,0 @@
-e 2bslX�hrRsrc/cf/Documents/Заказ/Forms/ФормаДокумента/Ext/Form/Module.bsl

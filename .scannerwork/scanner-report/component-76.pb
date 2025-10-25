@@ -1,1 +1,0 @@
-L 2bslXhrZsrc/cf/CommonModules/СистемаВзаимодействияКлиент/Ext/Module.bsl

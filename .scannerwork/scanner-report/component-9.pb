@@ -1,1 +1,0 @@
-	 2bslXhrOsrc/cf/Catalogs/Встречи/Forms/ФормаСписка/Ext/Form/Module.bsl

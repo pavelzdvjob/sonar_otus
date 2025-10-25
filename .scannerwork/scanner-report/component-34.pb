@@ -1,1 +1,0 @@
-" 2bslX�hrisrc/cf/Catalogs/ХранимыеФайлы/Forms/СписокСертификатов/Ext/Form/Module.bsl

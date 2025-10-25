@@ -1,1 +1,0 @@
-d 2bslX4hr0src/cf/Documents/Заказ/Ext/ObjectModule.bsl

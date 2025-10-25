@@ -1,1 +1,0 @@
-% 2bslX�hr[src/cf/Catalogs/ХранимыеФайлы/Forms/ФормаСписка/Ext/Form/Module.bsl

@@ -1,1 +1,0 @@
- 2bslXhrYsrc/cf/Catalogs/РасчетныеСчетаКонтрагентов/Ext/ObjectModule.bsl

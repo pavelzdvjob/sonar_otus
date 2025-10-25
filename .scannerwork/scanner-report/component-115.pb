@@ -1,1 +1,0 @@
-s 2bslXhr<src/cf/ExchangePlans/Мобильные/Ext/ObjectModule.bsl

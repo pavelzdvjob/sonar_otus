@@ -1,1 +1,0 @@
-V 2bslX�hresrc/cf/DataProcessors/НастройкиПользователя/Forms/Форма/Ext/Form/Module.bsl

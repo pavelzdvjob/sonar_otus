@@ -1,1 +1,0 @@
-6 2bslX�hrQsrc/cf/CommonForms/ФормаПодбораМобильная/Ext/Form/Module.bsl

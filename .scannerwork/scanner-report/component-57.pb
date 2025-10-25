@@ -1,1 +1,0 @@
-9 2bslX�hr6src/cf/CommonModules/БотСервер/Ext/Module.bsl

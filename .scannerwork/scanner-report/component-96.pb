@@ -1,1 +1,0 @@
-` 2bslX�hrmsrc/cf/DataProcessors/УправлениеНастройкамиФорм/Forms/Форма/Ext/Form/Module.bsl

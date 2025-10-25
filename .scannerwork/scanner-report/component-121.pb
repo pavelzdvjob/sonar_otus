@@ -1,1 +1,0 @@
-y 2bslXhrcsrc/cf/InformationRegisters/ЦеныТоваров/Forms/ФормаСписка/Ext/Form/Module.bsl

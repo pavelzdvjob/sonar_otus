@@ -1,1 +1,0 @@
-Q 2bslX`hr{src/cf/DataProcessors/ДемонстрацияВозможностейДиаграмм/Forms/Форма/Ext/Form/Module.bsl

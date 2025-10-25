@@ -1,1 +1,0 @@
-R 2bslX,hrMsrc/cf/DataProcessors/ЖурналРегистрации/Ext/ObjectModule.bsl
