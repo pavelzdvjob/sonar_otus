@@ -1,0 +1,1 @@
+ 2bslX/hr2src/cf/Catalogs/Склады/Ext/ManagerModule.bsl

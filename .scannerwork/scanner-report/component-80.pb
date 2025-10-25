@@ -1,0 +1,1 @@
+P 2bslX	hrgsrc/cf/DataProcessors/АдминистративныйСервис/Forms/Форма/Ext/Form/Module.bsl

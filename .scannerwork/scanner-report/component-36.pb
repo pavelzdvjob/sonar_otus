@@ -1,0 +1,1 @@
+$ 2bslXhr[src/cf/Catalogs/ХранимыеФайлы/Forms/ФормаПароля/Ext/Form/Module.bsl

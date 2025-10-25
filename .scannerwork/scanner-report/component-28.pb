@@ -1,0 +1,1 @@
+ 2bslX(hrZsrc/cf/Catalogs/Товары/Commands/ПечатьШтрихкода/Ext/CommandModule.bsl

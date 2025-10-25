@@ -1,0 +1,1 @@
+ 2bslX,hr4src/cf/Catalogs/Встречи/Ext/ManagerModule.bsl

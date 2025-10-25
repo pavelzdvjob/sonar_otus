@@ -1,0 +1,1 @@
++ 2bslX-hrtsrc/cf/CommonCommands/УстановитьВидимостьОбъектовЧерезODataAPI/Ext/CommandModule.bsl

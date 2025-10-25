@@ -1,0 +1,1 @@
+p 2bslX�hr>src/cf/Documents/РасходТовара/Ext/ObjectModule.bsl

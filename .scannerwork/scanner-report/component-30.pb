@@ -1,0 +1,1 @@
+ 2bslX#hrasrc/cf/Catalogs/Товары/Forms/ФормаСпискаСОстатками/Ext/Form/Module.bsl

@@ -1,0 +1,1 @@
+_ 2bslX�hr]src/cf/DataProcessors/УправлениеНастройкамиФорм/Ext/ObjectModule.bsl

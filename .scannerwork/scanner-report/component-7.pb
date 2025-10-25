@@ -1,0 +1,1 @@
+ 2bslX-hr3src/cf/Catalogs/Встречи/Ext/ObjectModule.bsl

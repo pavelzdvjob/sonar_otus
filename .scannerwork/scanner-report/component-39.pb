@@ -1,0 +1,1 @@
+' 2bslX"hrJsrc/cf/CommonCommands/БотОфисМенеджер/Ext/CommandModule.bsl

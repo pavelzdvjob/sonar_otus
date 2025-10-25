@@ -1,0 +1,1 @@
+G 2bslXKhrVsrc/cf/CommonModules/РаботаСПочтойВызовСервера/Ext/Module.bsl

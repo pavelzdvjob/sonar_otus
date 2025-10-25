@@ -1,0 +1,1 @@
+ 2bslX hrLsrc/cf/Catalogs/МобильныеУстройства/Ext/ManagerModule.bsl

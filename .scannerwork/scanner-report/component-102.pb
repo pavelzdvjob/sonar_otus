@@ -1,0 +1,1 @@
+f 2bslX-hrRsrc/cf/Documents/ОперацияПоУчетуТоваров/Ext/ObjectModule.bsl

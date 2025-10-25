@@ -1,0 +1,1 @@
+O 2bslXhr�src/cf/DataProcessors/АдминистративныйСервис/Commands/АдминистративныйСервис/Ext/CommandModule.bsl

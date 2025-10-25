@@ -1,0 +1,1 @@
+h 2bslX9hr2src/cf/Documents/Оплата/Ext/ObjectModule.bsl

@@ -1,0 +1,1 @@
+ 2bslX�hr[src/cf/Catalogs/Контрагенты/Forms/ФормаЭлемента/Ext/Form/Module.bsl

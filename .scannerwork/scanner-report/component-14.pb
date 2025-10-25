@@ -1,0 +1,1 @@
+ 2bslX�hrcsrc/cf/Catalogs/ИсходящиеПисьма/Forms/ФормаЭлемента/Ext/Form/Module.bsl

@@ -1,0 +1,1 @@
+= 2bslX&hrNsrc/cf/CommonModules/ГлобальныйПоискКлиент/Ext/Module.bsl

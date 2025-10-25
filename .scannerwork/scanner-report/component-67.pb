@@ -1,0 +1,1 @@
+C 2bslXhrNsrc/cf/CommonModules/РаботаСИсториейДанных/Ext/Module.bsl

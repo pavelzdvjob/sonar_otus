@@ -1,0 +1,1 @@
+ 2bslX&hrYsrc/cf/Catalogs/Товары/Commands/ЗаписатьNFCМетку/Ext/CommandModule.bsl

@@ -1,0 +1,1 @@
+S 2bslX�hrusrc/cf/DataProcessors/ЖурналРегистрации/Forms/ЖурналРегистрации/Ext/Form/Module.bsl

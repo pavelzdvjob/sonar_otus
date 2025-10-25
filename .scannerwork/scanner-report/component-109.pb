@@ -1,0 +1,1 @@
+m 2bslXUhr>src/cf/Documents/ПриходТовара/Ext/ObjectModule.bsl

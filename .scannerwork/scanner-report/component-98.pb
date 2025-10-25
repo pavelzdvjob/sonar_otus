@@ -1,0 +1,1 @@
+b 2bslX�hr{src/cf/DataProcessors/УправлениеСистемойВзаимодействия/Forms/Форма/Ext/Form/Module.bsl

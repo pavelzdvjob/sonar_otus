@@ -1,0 +1,1 @@
+ 2bslXhrCsrc/cf/Catalogs/ИсходящиеПисьма/Ext/ObjectModule.bsl

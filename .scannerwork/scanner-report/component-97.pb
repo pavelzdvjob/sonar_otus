@@ -1,0 +1,1 @@
+a 2bslXlhrysrc/cf/DataProcessors/УправлениеПолнотекстовымПоиском/Forms/Форма/Ext/Form/Module.bsl

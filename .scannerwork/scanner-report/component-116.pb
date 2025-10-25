@@ -1,0 +1,1 @@
+t 2bslX¯hr'src/cf/Ext/ManagedApplicationModule.bsl

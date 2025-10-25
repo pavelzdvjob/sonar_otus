@@ -1,0 +1,6 @@
+projectKey=DemoUP2
+serverUrl=http://localhost:9000
+serverVersion=25.9.0.112764
+dashboardUrl=http://localhost:9000/dashboard?id=DemoUP2
+ceTaskId=38a258c9-7b2d-46e2-b3e1-24cfe4a28e63
+ceTaskUrl=http://localhost:9000/api/ce/task?id=38a258c9-7b2d-46e2-b3e1-24cfe4a28e63

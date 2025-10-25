@@ -1,0 +1,1 @@
+? 2bslXhhrNsrc/cf/CommonModules/ОбменМобильныеВызовПК/Ext/Module.bsl

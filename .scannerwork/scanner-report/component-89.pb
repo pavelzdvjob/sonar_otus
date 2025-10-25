@@ -1,0 +1,1 @@
+Y 2bslXhr�src/cf/DataProcessors/Путеводитель/Commands/ПутеводительПоКонфигурации/Ext/CommandModule.bsl

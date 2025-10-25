@@ -1,0 +1,1 @@
+o 2bslX)hrysrc/cf/Documents/РасходТовара/Commands/ПечатьРасходнойНакладной/Ext/CommandModule.bsl

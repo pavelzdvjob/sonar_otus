@@ -1,0 +1,1 @@
+  2bslX"hrzsrc/cf/Catalogs/ХранилищеВариантовОтчетов/Commands/ОткрытьОтчет/Ext/CommandModule.bsl

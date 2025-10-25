@@ -1,0 +1,1 @@
+k 2bslX&hrhsrc/cf/Documents/ПоступлениеДенег/Forms/ФормаДокумента/Ext/Form/Module.bsl

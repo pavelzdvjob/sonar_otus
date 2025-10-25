@@ -1,0 +1,1 @@
+ 2bslX�hr1src/cf/Catalogs/Товары/Ext/ObjectModule.bsl

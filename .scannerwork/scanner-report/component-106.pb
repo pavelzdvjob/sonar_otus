@@ -1,0 +1,1 @@
+j 2bslX8hrFsrc/cf/Documents/ПоступлениеДенег/Ext/ObjectModule.bsl

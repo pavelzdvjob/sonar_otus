@@ -1,0 +1,1 @@
+H 2bslX`hr\src/cf/CommonModules/РаботаСТорговымОборудованием/Ext/Module.bsl

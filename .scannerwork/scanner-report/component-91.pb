@@ -1,0 +1,1 @@
+[ 2bslX�hr]src/cf/DataProcessors/РедактированиеЦен/Forms/Форма/Ext/Form/Module.bsl

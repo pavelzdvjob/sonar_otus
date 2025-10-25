@@ -1,0 +1,1 @@
+ 2bslXhrhsrc/cf/AccumulationRegisters/Взаиморасчеты/Forms/ФормаСписка/Ext/Form/Module.bsl
