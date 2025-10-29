@@ -1,2 +1,2 @@
-# otus_TestSonarQube
-Пример ручного запуска проверки SonarQube
+# sonar_otus
+Для ДЗ
